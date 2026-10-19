@@ -13,3 +13,7 @@ export function multiply(a, b, c) {
 export function divide(a, b) {
   return a / b
 }
+
+export function findRemainder(a, b) {
+  return a % b
+}
